@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Waterio</string>
+
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="verify_your_number">Verify Your Number</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="phone_auth_subtitle">Please enter your phone number to verify your account</string>
+    <string name="otp_auth_subtitle">Please enter the OTP received in %1$s</string>
+    <string name="verify">Verify</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="send">send</string>
+    <string name="otp">Otp</string>
+
+    <string name="goal_header">Daily Goals</string>
+    <string name="goal_description">Health authorities commonly recommend eight 8-ounce glasses, which equals about 2 liters, or half a gallon.
+        \nBut many factors (both internal and external) ultimately affect your need for water.
+        Read more for more information</string>
+    <string name="goal_title">Select your Daily Goals</string>
+    <string name="goal_result_label">Your Daily Goal is: </string>
+    <string name="liters_per_day">liters per day</string>
+    <string name="menu_goal_info">Info</string>
+
+    <string name="navigation_dashboard">Dashboard</string>
+    <string name="navigation_history">History</string>
+    <string name="navigation_setting">Setting</string>
+    <string name="dashboard_header">DAILY BALANCE</string>
+    <string name="history_header">HISTORY</string>
+    <string name="setting_header">SETTING</string>
+    <string name="notifications">Notifications</string>
+    <string name="your_day">Your day</string>
+    <string name="start_at">start at</string>
+    <string name="end_at">end at</string>
+    <string name="notify_every">Notify every</string>
+    <string name="notify_when_streak_breaks">Notify when streak breaks</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="longest_streak">Longest Streak</string>
+    <string name="_150ml">150ml</string>
+    <string name="_250ml">250ml</string>
+    <string name="_300ml">300ml</string>
+    <string name="undo">UNDO</string>
+    <string name="daily_log">Daily Log</string>
+    <string name="today_s_log">Today\'s Log</string>
+    <string name="water_added">%1$sml of water added</string>
+    <string name="water_removed">%1$sml of water removed</string>
+    <string name="select_duration_frequency">Select Duration Frequency</string>
+    <string name="frequency_duration">%1$s hours</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="add_the_amount_hint">Add the amount(in ml)</string>
+    <string name="add_the_water_consumption">Add the water consumption</string>
+</resources>

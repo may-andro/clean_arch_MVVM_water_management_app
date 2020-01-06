@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631960238587",
+    "firebase_url": "https://waterio-de210.firebaseio.com",
+    "project_id": "waterio-de210",
+    "storage_bucket": "waterio-de210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631960238587:android:b91d5a50ae2189ff15735e",
+        "android_client_info": {
+          "package_name": "com.mayandro.waterio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631960238587-ljgei38hhg3n9es6ikddkte7c5mh4aql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO4yaYUqTW6DLKwlo9-1D6NEWrSmBdE8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631960238587-ljgei38hhg3n9es6ikddkte7c5mh4aql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
