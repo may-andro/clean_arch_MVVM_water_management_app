@@ -104,8 +104,7 @@ class AlarmScheduler @Inject constructor(private val application: Application, p
 
             println("AlarmScheduler.setNextAlarm startTimePair ${startTimePair!!.first} endTimePair ${endTimePair!!.first} currentTimePair ${currentTimePair!!.first}")
             if(startTimePair!!.first < currentTimePair!!.first && endTimePair!!.first > currentTimePair.first && (endTimePair.first - currentTimePair.first > preferenceManager.settingDurationFrequency)) {
-                //scheduleAlarmsForNotification(DateAndTimeUtils.getFrequencyHourFromNow(preferenceManager.settingDurationFrequency))
-                scheduleAlarmsForNotification(0, 5)
+                scheduleAlarmsForNotification(DateAndTimeUtils.getFrequencyHourFromNow(preferenceManager.settingDurationFrequency))
             } else {
                 scheduleAlarmsForNotification(startTimePair.first)
             }
